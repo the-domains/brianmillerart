@@ -1,7 +1,7 @@
 name: BrianMillerArt
 favicon: null
-layout_spectrum: 0.17046
-typography_spectrum: 0
+layout_spectrum: 1
+typography_spectrum: 0.55917
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.4815814052708447
-  rhythmicContrast: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
