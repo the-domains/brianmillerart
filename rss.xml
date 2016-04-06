@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BrianMillerArt]]></title>
+        <description><![CDATA[BrianMillerArt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 00:05:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Friday 3 am painting]]></title>
+            <description><![CDATA[<article><h1>Good Friday 3 am painting</h1><p>6" X 6" acrylic on masonite panel</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf520424-87a2-44ef-8b5f-5138b602fbab.jpg"></article>]]></description>
+            <link>undefinedgood-friday-3-am-painting/index.html</link>
+            <guid isPermaLink="false">2583ad75-1f6d-47e5-8d15-6c0e5e4efc18</guid>
+            <pubDate>Wed, 06 Apr 2016 00:04:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
